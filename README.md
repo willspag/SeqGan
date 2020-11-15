@@ -4,4 +4,4 @@ Work in Progress Tensorflow 2.3 compatible implementation of Sequence GAN - http
 
 SeqGAN.py is the main file, and walks through how to set everything up. 
 
-SeqGAN.py currently has all of the pretraining and setup, but I'm still working on the reinforcement training loop
+SeqGAN.py currently has all of the pretraining and setup, but I'm still working on the reinforcement learning training.
